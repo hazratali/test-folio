@@ -36,16 +36,25 @@
       "startDate": "2024-08-08",
       "endDate": "",
       "summary": "Teaching Machine Learning, Data Strategy",
-      "highlights": ["Relativity"]
+      "highlights": ["Artificial Intelligence"]
     },
     {
       "name": "Hamad Bin Khalifa University, Qatar",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "position": "Researcher",
+      "url": "https://www.hbku.edu.qa/en",
+      "startDate": "2021-07",
+      "endDate": "2024-04",
+      "summary": "Research in AI for Healthcare. Received HBKU Postdoc Fellowship.",
+      "highlights": ["Healthcare AI"]
+    },
+    {
+      "name": "Umea University Sweden",
+      "position": "Senior Researcher",
+      "url": "https://www.umu.se/en/",
+      "startDate": "2020-01",
+      "endDate": "2021-06",
+      "summary": "Senior Researcher at the Biomedical Engineering R&D Research Center, Umea University Hospital, Umea, Sweden. Received Kempe Foundation Fellowship.",
+      "highlights": ["AI for Medical Imaging"]
     }
   ],
   "volunteer": [

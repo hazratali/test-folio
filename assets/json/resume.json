@@ -57,6 +57,15 @@
       "endDate": "2021-06",
       "summary": "Senior Researcher at the Biomedical Engineering R&D Research Center, Umea University Hospital, Umea, Sweden. Received Kempe Foundation Fellowship.",
       "highlights": ["AI for Medical Imaging"]
+    },
+    {
+      "name": "COMSATS University Pakistan",
+      "position": "Assistant Professor",
+      "url": "https://www.cuiatd.edu.pk",
+      "startDate": "2015-09",
+      "endDate": "2022-06",
+      "summary": "Assistant Professor at the Department of Electrical and Computer Engineering. Taught Machine Learning and Digital Signal Processing.",
+      "highlights": ["AI", "Signal Processing"]
     }
   ],
   "grants": [
@@ -215,7 +224,7 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Reference 1",
       "icon": "fa-solid fa-laptop",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
